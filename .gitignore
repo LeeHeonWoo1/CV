@@ -2,5 +2,11 @@ test_cuda
 detectron2
 segmentation/Data
 segmentation/Splitted
+segmentation/output
 object detection
 connection
+classification/Data
+classification/image_dataset
+classification/splitted
+classification/model
+runs
