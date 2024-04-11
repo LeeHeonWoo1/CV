@@ -12,3 +12,6 @@ classification/model
 runs
 anormal_detection/Data
 anormal_detection/model
+generate/Data
+diffusers
+gan
