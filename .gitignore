@@ -3,7 +3,7 @@ detectron2
 segmentation/Data
 segmentation/Splitted
 segmentation/output
-object detection
+object_detection
 connection
 classification/Data
 classification/image_dataset
