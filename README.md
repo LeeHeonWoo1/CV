@@ -10,5 +10,6 @@ CV(Repository)
  |--- anormal_detection  # 이상탐지
  |--- classification     # 이미지 분류
  |--- generate           # about gan
- |___ segmentation       # instance segmentation
+ |--- segmentation       # instance segmentation
+ |___ cabbage            # 배추 데이터셋 training
 ```
