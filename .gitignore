@@ -21,3 +21,6 @@ classification_dataset
 napa_cabbage
 yolact
 base_data
+detection_dataset
+new_dataset
+new_detection
