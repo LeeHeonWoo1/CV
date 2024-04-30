@@ -24,3 +24,15 @@ base_data
 detection_dataset
 new_dataset
 new_detection
+.env
+new_detection2
+new_dataset2
+classification_dataset2
+class_per_2000
+class_per_1500
+detection_model
+splitted_classification
+wandb
+lhw
+lhw_activate.cmd
+lhw_deactivate.cmd
