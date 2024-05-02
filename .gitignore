@@ -36,3 +36,6 @@ wandb
 lhw
 lhw_activate.cmd
 lhw_deactivate.cmd
+yolo_data
+yolo_data2
+bug_dataset
