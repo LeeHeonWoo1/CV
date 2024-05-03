@@ -39,3 +39,6 @@ lhw_deactivate.cmd
 yolo_data
 yolo_data2
 bug_dataset
+detection_data
+output_dataset
+auto_annotation_test
