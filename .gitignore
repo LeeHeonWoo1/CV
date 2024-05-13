@@ -42,3 +42,5 @@ bug_dataset
 detection_data
 output_dataset
 auto_annotation_test
+cab_bug_dataset
+classification/growth
