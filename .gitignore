@@ -49,3 +49,6 @@ model
 Data
 new_data
 .ipynb_checkpoints
+api_testing
+training_checkpoints
+*.yaml
