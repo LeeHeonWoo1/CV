@@ -44,3 +44,8 @@ output_dataset
 auto_annotation_test
 cab_bug_dataset
 classification/growth
+result
+model
+Data
+new_data
+.ipynb_checkpoints
