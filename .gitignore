@@ -52,3 +52,9 @@ new_data
 api_testing
 training_checkpoints
 *.yaml
+food_dataset
+cls_dataset
+cls_dataset2
+food_model
+food_dataset
+food_dataset2
