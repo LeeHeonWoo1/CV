@@ -58,3 +58,5 @@ cls_dataset2
 food_model
 food_dataset
 food_dataset2
+images
+labels
